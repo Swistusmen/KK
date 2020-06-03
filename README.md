@@ -49,3 +49,4 @@ Do celów niniejszego zadania przygotowane zostały proste testy aplikacji klien
     3. https://www.basefactor.com/hello-docker-travis-ci-cd
 6. [CI process with docker and react app](https://medium.com/swlh/an-example-ci-process-for-react-apps-with-docker-2247171a218)
 # K
+# KK
